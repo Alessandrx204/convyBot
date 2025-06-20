@@ -1,6 +1,7 @@
 # 🤖 ConvyBot
 
 **ConvyBot** is a Telegram bot built using [Aiogram 3.x](https://docs.aiogram.dev/en/dev-3.x/) that automatically converts `.webm` videos to `.mp4` format and responds to user pings with a friendly message.
+works both in groups and in private chat with the bot
 
 ## 🚀 Features
 
