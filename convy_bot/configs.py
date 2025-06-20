@@ -2,9 +2,9 @@ from aiogram.types import ReactionTypeEmoji
 
 BOT_TOKEN = 'REPLACE WITH YOUR TOKEN'
 
-goodOutcomeEmoji = ReactionTypeEmoji(emoji='🆒') #replace it here good outcome emoji here
+goodOutcomeEmoji = ReactionTypeEmoji(emoji='🆒') #replace the good outcome emoji here
 
-badOutcomeEmoji = ReactionTypeEmoji(emoji='🙈') #replace it here bad outcome emoji here
+badOutcomeEmoji = ReactionTypeEmoji(emoji='🙈') #replace the bad outcome emoji here
 
 
 '''as Aiogram3.20Post0
